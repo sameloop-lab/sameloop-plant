@@ -1,0 +1,11 @@
+test_bad_input_does_not_mutate (test_model.ModelTests.test_bad_input_does_not_mutate) ... ok
+test_cooling_and_inertia (test_model.ModelTests.test_cooling_and_inertia) ... ok
+test_fan_matches_exact_cascade (test_model.ModelTests.test_fan_matches_exact_cascade) ... ok
+test_off_matches_analytic_thermal_solution (test_model.ModelTests.test_off_matches_analytic_thermal_solution) ... ok
+test_partition_invariance (test_model.ModelTests.test_partition_invariance) ... ok
+test_zero_step (test_model.ModelTests.test_zero_step) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.007s
+
+OK
